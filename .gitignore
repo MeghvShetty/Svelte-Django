@@ -1,0 +1,11 @@
+djangoServer/db.sqlite3
+djangoServer/api_app/__pycache__/__init__.cpython-311.pyc
+djangoServer/api_app/__pycache__/admin.cpython-311.pyc
+djangoServer/api_app/__pycache__/apps.cpython-311.pyc
+djangoServer/api_app/__pycache__/models.cpython-311.pyc
+djangoServer/api_app/__pycache__/serializers.cpython-311.pyc
+djangoServer/api_app/__pycache__/views.cpython-311.pyc
+djangoServer/api_app/migrations/0001_initial.py
+djangoServer/api_app/migrations/__pycache__/__init__.cpython-311.pyc
+djangoServer/djangoServer/__pycache__/settings.cpython-311.pyc
+djangoServer/djangoServer/__pycache__/urls.cpython-311.pyc
